@@ -1,6 +1,16 @@
 # Changelog
 
-## Unreleased
+## 3.2.7
+
+- fix: ReactNavigationV4Instrumentation null when evaluating 'state.routes' #1940
+- fix: ConcurrentModification exception for frameMetricsAggregator #1939
+
+## 3.2.6
+
+- feat(android): Support monorepo in gradle plugin #1917
+- fix: Remove dependency on promiseRejectionTrackingOptions #1928
+
+## 3.2.5
 
 - fix: Fix dynamic require for promise options bypassing try catch block and crashing apps #1923
 
