@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.2.8
+
+### Various fixes & improvements
+
+- replace usage of master to main (30b44232) by @marandaneto
+
 ## 3.2.7
 
 - fix: ReactNavigationV4Instrumentation null when evaluating 'state.routes' #1940
